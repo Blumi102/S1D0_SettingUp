@@ -1,0 +1,10 @@
+#Directories
+build/
+node_modules/
+
+#IDE
+.idea
+.vscode/
+
+#Files
+.eslintcache
